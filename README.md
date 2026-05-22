@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**advaithsg/advaithsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Advaith
 
-Here are some ideas to get you started:
+🚀 Passionate about building smart and innovative tech projects
+💻 Developer interested in AI, Web Development & Smart Governance Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+
+* Python
+* Flask
+* HTML, CSS, JavaScript
+* UI/UX Designing
+* Git & GitHub
+
+## 🚀 Projects
+
+### 🏛️ Janadhvani
+
+AI-powered smart governance & complaint management system.
+
+### 📷 Smart Attendance Management
+
+QR-based attendance system with secure login and analytics.
+
+## 🏆 Interests
+
+* Hackathons
+* Problem Solving
+* Creative Tech Ideas
+* Smart Automation Systems
+
+## 📫 Connect With Me
+
+* GitHub: [GitHub Profile](https://github.com?utm_source=chatgpt.com)
+
+> “Code. Create. Innovate.” ✨
