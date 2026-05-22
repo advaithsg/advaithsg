@@ -22,11 +22,7 @@
 
 ---
 
-# 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-
----
 
 # 📌 Featured Projects
 
