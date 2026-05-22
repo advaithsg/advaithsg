@@ -61,8 +61,6 @@ QR-Based Smart Attendance Solution with authentication, attendance tracking, and
 
 # 📊 GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=advaithsg&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <br><br>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=advaithsg&theme=tokyonight&hide_border=true" />
