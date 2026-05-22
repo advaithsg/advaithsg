@@ -97,7 +97,7 @@ QR-Based Smart Attendance Solution with authentication, attendance tracking, and
 
 # 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=advaithsg&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 ---
 
